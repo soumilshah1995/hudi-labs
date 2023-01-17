@@ -27,3 +27,6 @@
 #### How Apache Hudi can Help you to guarantee Uniqueness and remove duplicates using Global Bloom Index
 * Video https://www.youtube.com/watch?v=iD7ai4FMyME&t=2s
 * Code https://github.com/soumilshah1995/hudi-labs/blob/main/Lab6/global%20index.ipynb
+
+#### How can businesses use Apache Hudi Soft delete features to do soft delete instead of hard delete on Datalake
+* Code https://github.com/soumilshah1995/hudi-labs/blob/main/lab6/lab6.ipynb
